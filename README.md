@@ -17,10 +17,12 @@ git clone https://github.com/MikhailCherepanovD/GrammarChecker
 ## To run:
 
 cd <project_folder>/src
+
 javac -d bin main/java/org/example/Main.java 
+
 java -classpath ./bin main.java.org.example.Main
 
 ## Documentation on Russian language:
 
 
-[]()
+[here](https://github.com/MikhailCherepanovD/GrammarChecker/tree/master/GitBub_Resources)
